@@ -6,9 +6,9 @@
  *
  * Name: Vishesh Dineshbhai Patel student ID: 154492219 Date: 16/04/23
  *
- * Cyclic Web App URL: 
+ * Cyclic Web App URL: https://ruby-plain-butterfly.cyclic.app
  *
- * GitHub Repository URL: 
+ * GitHub Repository URL: https://github.com/vishesh4678/WEB322_ASS6.git
  *
  ********************************************************************************/
 const express = require("express");
